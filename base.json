@@ -1,0 +1,13 @@
+{
+  "model_name": "unsloth/Qwen2.5-Coder-7B-Instruct",
+  "evaluation_type": "base_model",
+  "num_samples": 39,
+  "pass_at_1": 0.02564102564102564,
+  "pass_at_5": 0.1282051282051282,
+  "compile_at_1": 0.10256410256410256,
+  "compile_at_5": 0.23076923076923078,
+  "avg_bleu": 0.04538978580905099,
+  "avg_rouge1": 0.323610173150134,
+  "avg_rouge2": 0.12793479462526586,
+  "avg_rougeL": 0.2123726977727147
+}

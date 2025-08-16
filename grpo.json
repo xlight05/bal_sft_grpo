@@ -1,0 +1,13 @@
+{
+  "model_name": "xlight05/base_test_4_grpo_16bit_vllm",
+  "evaluation_type": "base_model",
+  "num_samples": 39,
+  "pass_at_1": 0.28205128205128205,
+  "pass_at_5": 0.5897435897435898,
+  "compile_at_1": 0.5897435897435898,
+  "compile_at_5": 0.8974358974358975,
+  "avg_bleu": 0.03412567569490844,
+  "avg_rouge1": 0.25308236701125963,
+  "avg_rouge2": 0.11006980675029805,
+  "avg_rougeL": 0.19189915700079715
+}
